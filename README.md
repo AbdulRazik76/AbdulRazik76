@@ -46,4 +46,3 @@
   </a>
 </p>
 
-  more animation and background color
