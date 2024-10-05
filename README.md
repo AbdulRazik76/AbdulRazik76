@@ -46,6 +46,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulraziku&show_icons=true&theme=radical" alt="Abdul Razik U's GitHub Stats"/>
-</p>
+
