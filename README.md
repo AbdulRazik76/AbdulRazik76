@@ -41,7 +41,7 @@
   <a href="mailto:abdulrashik678@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me%20📧-E4405F?style=for-the-badge" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdulraziku/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-razik-b353b11b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn%20🔗-0e76a8?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </p>
